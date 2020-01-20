@@ -6,6 +6,7 @@
 
 ## 组织内部处置相关文稿
 
+* [内部人员处置通知书-肖遥解说](zu-zhi-nei-bu-chu-zhi-xiang-guan-wen-gao/nei-bu-ren-yuan-chu-zhi-tong-zhi-shu-xiao-yao-jie-shuo.md)
 * [内部人员处置通知书-宣梦负责人](zu-zhi-nei-bu-chu-zhi-xiang-guan-wen-gao/nei-bu-ren-yuan-chu-zhi-tong-zhi-shu-xuan-meng-fu-ze-ren.md)
 
 ## 组织活动相关详细说明
