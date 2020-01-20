@@ -21,13 +21,9 @@ description: 2019 年 8 月 10 日 01 时 发布
 
 ## 署名
 
-SRO 负责人：Tony
+![SRO &#x8D1F;&#x8D23;&#x4EBA;&#xFF1A;Tony](../.gitbook/assets/qq-jie-tu-20191215140057.png)
 
-![](../.gitbook/assets/qq-jie-tu-20191215140057.png)
-
-SRO 常委：碉宝、核心
-
-![](../.gitbook/assets/qq-jie-tu-20191215140052.png)
+![ SRO &#x5E38;&#x59D4;&#xFF1A;&#x7889;&#x5B9D;&#x3001;&#x6838;&#x5FC3;](../.gitbook/assets/qq-jie-tu-20191215140052.png)
 
 ## 相关注释
 
