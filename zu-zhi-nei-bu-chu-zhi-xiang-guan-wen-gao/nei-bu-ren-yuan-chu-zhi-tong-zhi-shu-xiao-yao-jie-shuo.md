@@ -4,6 +4,8 @@ description: 2020 年 1 月 20 日 09 时 发布
 
 # 内部人员处置通知书-肖遥解说
 
+{% file src="../.gitbook/assets/nei-bu-ren-yuan-chu-zhi-tong-zhi-shu-xiao-yao-jie-shuo.pdf" %}
+
 ## 问题出在何处？
 
 1. 肖瑶解说（下文简称“肖遥”）多次违反《SRO 联合公约》中第 1 条“三个友好原则：不抄袭；不外 传；不制作”中的“不抄袭”原则。在原作者未授权的情况下违规“混剪”同站（指哔哩哔哩弹幕视 频网）的多个视频\[1\] 
