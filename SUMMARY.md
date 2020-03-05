@@ -33,9 +33,7 @@
 
 ## 组织相关的联系方式
 
-* [运营商联系方式](zu-zhi-xiang-guan-de-lian-xi-fang-shi/yun-ying-shang-lian-xi-fang-shi.md)
 * [线上联系方式](zu-zhi-xiang-guan-de-lian-xi-fang-shi/xian-shang-lian-xi-fang-shi.md)
-* [线下联系方式](zu-zhi-xiang-guan-de-lian-xi-fang-shi/xian-xia-lian-xi.md)
 
 ## 工作人员相关介绍
 
