@@ -19,7 +19,7 @@ description: SRO 下属服务器详细介绍
 
 1. China2B2T
 2. Site-27
-3. 1.15.2 待定
+3. 琉璃溪谷
 
 
 
