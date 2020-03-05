@@ -47,6 +47,6 @@
 ## 友情链接
 
 * [核心的博客](https://www.emtips.net)
+* [Tony32's Bio Card](https://me.tony32.top)
 * [BiliBili官方空间](https://space.bilibili.com/12907863)
-* [哔哩哔哩动画](https://www.bilibili.com/)
 
