@@ -8,7 +8,7 @@ description: SRO 下属服务器详细介绍
 
 1. BedwarsCN
 2. CCT
-3. FiFU
+3. FiFu
 4. PWSC
 5. PWSG
 6. PixelHero

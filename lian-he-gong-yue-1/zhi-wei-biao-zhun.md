@@ -40,7 +40,7 @@ description: Server Rise Organization 管理层制定，所有服务器认可的
 
 ### Talker
 
-外交官，出席S.C.P等其他场合的讲话
+外交官，出席SRO等其他场合的讲话
 
 要求：服务器老玩家，拥有政治头脑，素质高，明晰并遵守各个条约
 
