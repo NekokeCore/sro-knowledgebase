@@ -4,41 +4,41 @@ description: Server Rise Organization 管理层制定，所有服务器认可的
 
 # 职位标准
 
-### Owner
+## Owner
 
 服务器拥有者（服主），负责掌管服务器大局、决定服务器发展走向、任职服务器职员等
 
-### Admin
+## Admin
 
 辅助Owner进行服务器管理，组织、监督服务器职员，编写插件等
 
 由Owner直接指定
 
-### Moderator
+## Moderator
 
 封禁外挂，向Admin汇报BUG和推荐Helper
 
 要求：是一个素质高的老PVP玩家（并不要求PVP优秀）
 
-### Builder
+## Builder
 
 建筑师，同时拥有Moderator的权力
 
 要求：掌握至少一种建筑风格，能保证两周完成一张地图
 
-### Helper
+## Helper
 
 管理玩家聊天语言及游戏行为，举报外挂等
 
 要求：在线时间长，每周15小时以上
 
-### Artist
+## Artist
 
 美工，制作LOGO，搭配全服颜色，制作宣传图等
 
 要求：信誉度高，有基础美术功底
 
-### Talker
+## Talker
 
 外交官，出席SRO等其他场合的讲话
 

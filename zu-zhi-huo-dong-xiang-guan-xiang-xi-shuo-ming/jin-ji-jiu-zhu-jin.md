@@ -22,5 +22,3 @@ description: ServerRiseOrganize内部紧急救助金的相关使用说明
 4. 批准后，记账审计
 5. 转账
 
-
-
